@@ -1,2 +1,11 @@
 node_modules/
 dist/s
+package-lock.json/
+erver.log
+.env
+.DS_Store
+.vscode/
+npm/
+.idea/
+logs/
+package-lock.json/
